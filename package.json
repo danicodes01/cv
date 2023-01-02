@@ -1,0 +1,19 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "CV for Daniel Knowles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danicodes01/cv.git"
+  },
+  "author": "Daniel Knowles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danicodes01/cv/issues"
+  },
+  "homepage": "https://github.com/danicodes01/cv#readme"
+}
